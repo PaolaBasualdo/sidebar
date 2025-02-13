@@ -1,5 +1,5 @@
 <h1 id="titulo-e-imagen-de-portada" align="center">
-🗂️ Sidebar Interactivo
+🏠 Sidebar Interactivo
 </h1>
 <br>
 <h2 align="center">
@@ -66,9 +66,9 @@ Este proyecto consiste en una **barra lateral (sidebar)** interactiva que permit
 
 ## 📁 Acceso al proyecto
 🔗 Repositorio en GitHub:
-**[Repositorio](https://github.com/tu-usuario/sidebar)**
+**[Repositorio](https://github.com/PaolaBasualdo/sidebar)**
 🔗 Versión desplegada en GitHub Pages:
-**[Ver Proyecto](https://tu-usuario.github.io/sidebar/)**
+**[Ver Proyecto](https://paolabasualdo.github.io/sidebar/)**
 
 ---
 
