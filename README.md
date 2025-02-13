@@ -68,8 +68,6 @@ Este proyecto consiste en una **barra lateral (sidebar)** interactiva que permit
 🔗 Repositorio en GitHub:
 **[Repositorio](https://github.com/PaolaBasualdo/sidebar)**
 
----
-
 🔗 Versión desplegada en GitHub Pages:
 **[Ver Proyecto](https://paolabasualdo.github.io/sidebar/)**
 
